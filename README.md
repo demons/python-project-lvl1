@@ -2,3 +2,5 @@
 
 ### Hexlet tests and linter status:
 [![Actions Status](https://github.com/demons/python-project-lvl1/workflows/hexlet-check/badge.svg)](https://github.com/demons/python-project-lvl1/actions)
+
+[![asciicast](https://asciinema.org/a/FRbRjPxEQyNZqT1RvuUbrRme1.svg)](https://asciinema.org/a/FRbRjPxEQyNZqT1RvuUbrRme1)
